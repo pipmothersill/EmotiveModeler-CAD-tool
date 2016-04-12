@@ -1,0 +1,422 @@
+{
+    "neutral": {
+        "spine_equation": {
+            "a_term": 0,
+            "b_term": 0,
+            "h_term": 0,
+            "k_term": 0
+        },
+        "global_vertical_AR": 0.8,
+        "global_horizontal_AR": 1,
+        "vertical_AR": {
+            "1": 1,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": 1
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 2,
+        "color": {
+            "r": 179,
+            "g": 179,
+            "b": 179
+        },
+        "spikiness": 0
+    },
+    "anger": {
+        "spine_equation": {
+            "a_term": 2.16414079,
+            "b_term": 1.32285282,
+            "h_term": -2.0074872,
+            "k_term": 0.4989708
+        },
+        "global_vertical_AR": 0.857,
+        "global_horizontal_AR": 1,
+        "vertical_AR": {
+            "1": 0.33,
+            "2": 0.5,
+            "3": null,
+            "4": 1,
+            "5": 0.75
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,                        
+                "points_in_curve": 5,
+                "horizontal_smoothness": 1
+            },
+            "2": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,                        
+                "points_in_curve": 6,
+                "horizontal_smoothness": 1
+            },
+            "4": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 9,
+                "horizontal_smoothness": 1
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 6,
+                "horizontal_smoothness": 1
+            }
+        },
+        "vertical_wrapping": 2,
+        "color": {
+            "r": 240,
+            "g": 25,
+            "b": 22
+        },
+        "spikiness": 1
+    },
+    "anticipation": {
+        "spine_equation": {
+            "a_term": 0.65,
+            "b_term": 4.34,
+            "h_term": -0.54,
+            "k_term": -2.42
+        },
+        "global_vertical_AR": 2,
+        "global_horizontal_AR": 2,
+        "vertical_AR": {
+            "1": 0.7,
+            "2": null,
+            "3": null,
+            "4": 1,
+            "5": 0.6
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.75,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "4": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.65,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.65,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 3,
+        "color": {
+            "r": 251,
+            "g": 166,
+            "b": 77
+        },
+        "spikiness": 0
+    },
+    "disgust": {
+        "spine_equation": {
+            "a_term": 2.61921174,
+            "b_term": 2.61921174,
+            "h_term": -2.5715897,
+            "k_term": -0.5714644
+        },
+        "global_vertical_AR": 1,
+        "global_horizontal_AR": 1,
+        "vertical_AR": {
+            "1": 0.5,
+            "2": 1,
+            "3": 0.65,
+            "4": null,
+            "5": 0.33
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1, 
+                "points_in_curve": 10,
+                "horizontal_smoothness": 2
+            },
+            "2": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1, 
+                "points_in_curve": 4,
+                "horizontal_smoothness": 1
+            },
+            "3": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1, 
+                "points_in_curve": 5,
+                "horizontal_smoothness": 1
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 10,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 2,
+        "color": {
+            "r": 198,
+            "g": 105,
+            "b": 173
+        },
+        "spikiness": 1
+    },
+    "fear": {
+        "spine_equation": {
+            "a_term": 2.91836176,
+            "b_term": 1.00897409,
+            "h_term": -2.7076267,
+            "k_term": 0.38315472
+        },
+        "global_vertical_AR": 0.625,
+        "global_horizontal_AR": 0.75,
+        "vertical_AR": {
+            "1": 0.75,
+            "2": 1,
+            "3": null,
+            "4": 0.325,
+            "5": 0.8
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.75,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "2": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.9,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "4": {
+                "level_horizontal_AR_x": 0.8,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 10,
+                "horizontal_smoothness": 1
+            },
+            "5": {
+                "level_horizontal_AR_x": 0.86,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 7,
+                "horizontal_smoothness": 1
+            }
+        },
+        "vertical_wrapping": 2,
+        "color": {
+            "r": 0,
+            "g": 152,
+            "b": 68
+        },
+        "spikiness": 1
+    },
+    "joy": {
+        "spine_equation": {
+            "a_term": 2.61921174,
+            "b_term": 2.61921174,
+            "h_term": -2.3811016,
+            "k_term": 1.15880277
+        },
+        "global_vertical_AR": 1,
+        "global_horizontal_AR": 1,
+        "vertical_AR": {
+            "1": 0.5,
+            "2": null,
+            "3": null,
+            "4": 1,
+            "5": 0.5
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "4": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 3,
+        "color": {
+            "r": 247,
+            "g": 241,
+            "b": 74
+        },
+        "spikiness": 0
+    },
+    "sadness": {
+        "spine_equation": {
+            "a_term": 2.20925624,
+            "b_term": 2.69462314,
+            "h_term": -1.9414676,
+            "k_term": -1.3054696
+        },
+        "global_vertical_AR": 0.95,
+        "global_horizontal_AR": 0.77,
+        "vertical_AR": {
+            "1": 0.5,
+            "2": null,
+            "3": 0.85,
+            "4": 1,
+            "5": 0.5
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "3": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.85,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "4": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.95,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 3,
+        "color": {
+            "r": 82,
+            "g": 93,
+            "b": 173
+        },
+        "spikiness": 1
+    },
+    "surprise": {
+        "spine_equation": {
+            "a_term": 2.16414079,
+            "b_term": 1.32285282,
+            "h_term": -2.0074872,
+            "k_term": 0.4989708
+        },
+        "global_vertical_AR": 0.625,
+        "global_horizontal_AR": 1,
+        "vertical_AR": {
+            "1": 1,
+            "2": 0.75,
+            "3": null,
+            "4": 0.325,
+            "5": 0.4
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "2": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 1,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "4": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.75,
+                "points_in_curve": 10,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.75,
+                "points_in_curve": 10,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 3,
+        "color": {
+            "r": 104,
+            "g": 182,
+            "b": 234
+        },
+        "spikiness": 0
+    },
+    "trust": {
+        "spine_equation": {
+            "a_term": 0,
+            "b_term": 0,
+            "h_term": 0,
+            "k_term": 0
+        },
+        "global_vertical_AR": 2,
+        "global_horizontal_AR": 2,
+        "vertical_AR": {
+            "1": 1,
+            "2": null,
+            "3": 0.85,
+            "4": null,
+            "5": 0.3
+        },
+        "horizontal_AR": {
+            "1": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.65,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "3": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.65,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            },
+            "5": {
+                "level_horizontal_AR_x": 1,
+                "level_horizontal_AR_y": 0.5,
+                "points_in_curve": 20,
+                "horizontal_smoothness": 2
+            }
+        },
+        "vertical_wrapping": 3,
+        "color": {
+            "r": 126,
+            "g": 197,
+            "b": 53
+        },
+        "spikiness": 0
+    }
+}

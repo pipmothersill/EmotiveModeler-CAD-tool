@@ -1,0 +1,110 @@
+{
+    "neutral": {
+        "spine_weighting": 0,
+        "global_vertical_AR_weighting": 0,
+        "global_horizontal_AR_weighting": 0,
+        "vertical_AR_weighting": 0,
+        "level_horizontal_AR_x_weighting": 0,
+        "level_horizontal_AR_y_weighting": 0,
+        "points_in_curve_weighting": 0,
+        "horizontal_smoothness_weighting": 0,
+        "vertical_wrapping_weighting": 0,
+        "color_weighting": 1
+    },
+    "anger": {
+        "spine_weighting": 0.2,
+        "global_vertical_AR_weighting": 0.2,
+        "global_horizontal_AR_weighting": 0.5,
+        "vertical_AR_weighting": 0.2,
+        "level_horizontal_AR_x_weighting": 0.2,
+        "level_horizontal_AR_y_weighting": 0.2,
+        "points_in_curve_weighting": 0.9,
+        "horizontal_smoothness_weighting": 0.9,
+        "vertical_wrapping_weighting": 0.9,
+        "color_weighting": 1
+    },
+    "anticipation": {
+        "spine_weighting": 0.5,
+        "global_vertical_AR_weighting": 0.2,
+        "global_horizontal_AR_weighting": 0.2,
+        "vertical_AR_weighting": 0.2,
+        "level_horizontal_AR_x_weighting": 0.2,
+        "level_horizontal_AR_y_weighting": 0.2,
+        "points_in_curve_weighting": 0.5,
+        "horizontal_smoothness_weighting": 0.5,
+        "vertical_wrapping_weighting": 0.7,
+        "color_weighting": 0.7
+    },
+    "disgust": {
+        "spine_weighting": 0.2,
+        "global_vertical_AR_weighting": 0.9,
+        "global_horizontal_AR_weighting": 0.9,
+        "vertical_AR_weighting": 0.5,
+        "level_horizontal_AR_x_weighting": 0.2,
+        "level_horizontal_AR_y_weighting": 0.2,
+        "points_in_curve_weighting": 0.9,
+        "horizontal_smoothness_weighting": 0.9,
+        "vertical_wrapping_weighting": 0.7,
+        "color_weighting": 0.7
+    },
+    "fear": {
+        "spine_weighting": 0.9,
+        "global_vertical_AR_weighting": 0.9,
+        "global_horizontal_AR_weighting": 0.9,
+        "vertical_AR_weighting": 0.9,
+        "level_horizontal_AR_x_weighting": 0.5,
+        "level_horizontal_AR_y_weighting": 0.5,
+        "points_in_curve_weighting": 0.9,
+        "horizontal_smoothness_weighting": 0.9,
+        "vertical_wrapping_weighting": 0.9,
+        "color_weighting": 0.7
+    },
+    "joy": {
+        "spine_weighting": 0.5,
+        "global_vertical_AR_weighting": 0.9,
+        "global_horizontal_AR_weighting": 0.9,
+        "vertical_AR_weighting": 0.7,
+        "level_horizontal_AR_x_weighting": 0.5,
+        "level_horizontal_AR_y_weighting": 0.5,
+        "points_in_curve_weighting": 0.2,
+        "horizontal_smoothness_weighting": 0.2,
+        "vertical_wrapping_weighting": 0.9,
+        "color_weighting": 1
+    },
+    "sadness": {
+        "spine_weighting": 0.9,
+        "global_vertical_AR_weighting": 0.7,
+        "global_horizontal_AR_weighting": 0.5,
+        "vertical_AR_weighting": 0.7,
+        "level_horizontal_AR_x_weighting": 0.7,
+        "level_horizontal_AR_y_weighting": 0.7,
+        "points_in_curve_weighting": 0.2,
+        "horizontal_smoothness_weighting": 0.2,
+        "vertical_wrapping_weighting": 0.7,
+        "color_weighting": 1
+    },
+    "surprise": {
+        "spine_weighting": 0.9,
+        "global_vertical_AR_weighting": 0.9,
+        "global_horizontal_AR_weighting": 0.9,
+        "vertical_AR_weighting": 0.9,
+        "level_horizontal_AR_x_weighting": 0.7,
+        "level_horizontal_AR_y_weighting": 0.7,
+        "points_in_curve_weighting": 0.2,
+        "horizontal_smoothness_weighting": 0.2,
+        "vertical_wrapping_weighting": 0.7,
+        "color_weighting": 0.7
+    },
+    "trust": {
+        "spine_weighting": 0.5,
+        "global_vertical_AR_weighting": 0.2,
+        "global_horizontal_AR_weighting": 0.2,
+        "vertical_AR_weighting": 0.2,
+        "level_horizontal_AR_x_weighting": 0.5,
+        "level_horizontal_AR_y_weighting": 0.5,
+        "points_in_curve_weighting": 0.5,
+        "horizontal_smoothness_weighting": 0.5,
+        "vertical_wrapping_weighting": 0.7,
+        "color_weighting": 0.7
+    }
+}

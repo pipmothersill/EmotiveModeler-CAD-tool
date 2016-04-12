@@ -1,0 +1,28 @@
+{
+	"object_name": {
+		"Bottle": {
+			"global_volume": 250000,
+			"global_width": 100,
+			"number_of_lofts": 5,
+			"finishing_features": null
+		},
+		"Jewelry": {
+			"global_volume": 10000,
+			"global_width": 30,
+			"number_of_lofts": 5,
+			"finishing_features": null
+		},
+		"Totem": {
+			"global_volume": 1200000,
+			"global_width": 200,
+			"number_of_lofts": 5,
+			"finishing_features": null
+		},
+		"Chair": {
+			"global_volume": 1200000,
+			"global_width": 200,
+			"number_of_lofts": 4,
+			"finishing_features": null
+		}
+	}
+}
